@@ -20,8 +20,8 @@ const words = [
   { text: "Innovation", imgPath: "/images/innovation.svg" },
   { text: "Code", imgPath: "/images/code.svg" },
   { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Vision", imgPath: "/images/concepts.svg" },
-  { text: "Innovation", imgPath: "/images/designs.svg" },
+  { text: "Vision", imgPath: "/images/vision.svg" },
+  { text: "Innovation", imgPath: "/images/innovation.svg" },
   { text: "Code", imgPath: "/images/code.svg" },
 ];
 
